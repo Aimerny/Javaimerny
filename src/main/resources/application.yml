@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+
+timeWheel:
+  slotSize: 10
+  interval: 2
